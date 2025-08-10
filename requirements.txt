@@ -2,3 +2,4 @@ streamlit
 numpy
 tensorflow==2.19.0
 pickle5
+gdown
